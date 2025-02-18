@@ -163,7 +163,7 @@ RobotWorld-Server/
 
 │-- .gitignore       # Files to be ignored in version control
 
-│-- README.md        # This file
+│-- README.md        # Walkthrough for basics of RobotWorld Server
 
 │-- app.yaml         # Configuration for cloud deployment
 
